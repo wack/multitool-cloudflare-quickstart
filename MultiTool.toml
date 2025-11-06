@@ -1,0 +1,6 @@
+workspace = "MY_WORKSPACE_NAME"
+application = "MY_APPLICATION_NAME"
+
+[config.cloudflare]
+worker-name = "multitool-cloudflare-quickstart"
+project-dir = "src/"
